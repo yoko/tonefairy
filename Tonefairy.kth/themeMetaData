@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-version</key>
+	<integer>72007061400</integer>
+	<key>description</key>
+	<string></string>
+	<key>height</key>
+	<string>720.000000</string>
+	<key>hidden</key>
+	<false/>
+	<key>order</key>
+	<integer>1879048192</integer>
+	<key>uuid</key>
+	<string>7C97A1E8-D1C9-49B6-9657-20B21EE7382A</string>
+	<key>width</key>
+	<string>1280.000000</string>
+</dict>
+</plist>
